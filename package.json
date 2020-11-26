@@ -1,0 +1,19 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "A context-shift transition inspired by iOS. Created using JavaScript, CSS 3D transforms and CSS Animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davit-Front-End-Developer/CV-Davit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davit-Front-End-Developer/CV-Davit/issues"
+  },
+  "homepage": "https://github.com/Davit-Front-End-Developer/CV-Davit#readme"
+}
